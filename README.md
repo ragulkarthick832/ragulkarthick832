@@ -1,7 +1,7 @@
-<h2 align="left">Hi 👋, I'm Ragul Karthick</h1>
-<h2 align="left">A Backend Developer with a passion for building robust and scalable applications, leveraging machine learning to solve complex problems</h3>
+<h2 align="left">Hi 👋, I'm Ragul Karthick</h2>
+<h2 align="left">A Backend Developer with a passion for building robust and scalable applications, leveraging machine learning to solve complex problems</h2>
 
-- 🔭 I’m currently working on **Learnif - Virtual Classroom application**
+- 🔭 I’m currently working on **Learnify - Virtual Classroom application**
 
 - 📫 How to reach me **ragulkarthick832@gmail.com**
 
