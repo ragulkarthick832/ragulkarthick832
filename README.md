@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ragul Karthick</h1>
-<h3 align="center">A Backend Developer with a passion for building robust and scalable applications, leveraging machine learning to solve complex problems</h3>
+<h3 align="left">Hi 👋, I'm Ragul Karthick</h1>
+<h3 align="left">A Backend Developer with a passion for building robust and scalable applications, leveraging machine learning to solve complex problems</h3>
 
 - 🔭 I’m currently working on **Learnif - Virtual Classroom application**
 
