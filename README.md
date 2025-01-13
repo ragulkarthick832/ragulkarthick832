@@ -10,5 +10,3 @@ A Backend Developer with a passion for building robust and scalable applications
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ragulkarthick832&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ragulkarthick832)]
