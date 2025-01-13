@@ -11,5 +11,4 @@ A Backend Developer with a passion for building robust and scalable applications
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ragulkarthick832&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ragulkarthick832)]
