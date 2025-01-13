@@ -9,5 +9,4 @@ A Backend Developer with a passion for building robust and scalable applications
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ragulkarthick832&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ragulkarthick832&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
