@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Backend Developer with a passion for building robust and scalable applications, leveraging machine learning to solve complex problems
+A Backend Developer with a passion for building robust and scalable applications, leveraging machine learning to solve complex problems 
 
 
 # 💻 Tech Stack:
